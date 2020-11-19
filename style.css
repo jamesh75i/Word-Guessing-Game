@@ -1,0 +1,12 @@
+button {
+  width: 150px;
+}
+
+#user-text-box {
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 60px;
+}
